@@ -1,4 +1,4 @@
-### Hi there, I'm Fabricio <img src="https://media.giphy.com/media/wJP2Z0HVBKfEw6nYJI/giphy.gif" width="40"></h2>
+<h2> Hi, I'm Fabricio! <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="70"></h2>
 
 <img align='right' src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="230">
 
