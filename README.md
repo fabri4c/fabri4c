@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Fabricio%20Garcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-garcia/)](https://www.linkedin.com/in/fabricio-garcia/)
-[![Twitter Badge](https://img.shields.io/badge/-@this_fab_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/this_fab)](https://twitter.com/this_fab)
+[![Twitter Badge](https://img.shields.io/badge/-@fabgrael10_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/this_fab)](https://twitter.com/this_fab)
 
 <br />
 
