@@ -1,8 +1,9 @@
-### Hi there, I'm [Fabricio!](https://fabricio-garcia.me/) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [Fabricio!](https://fabricio-garcia.me/).  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="50">
 
-<img align='right' src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="230">
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230" />
 
-## I'm a Jr. Full Stack Web Developer (among other things)
+
+### <img src="https://media.giphy.com/media/QZ1gZacg8oWmsleQQs/giphy.gif" width="50"> Talking about personal stuffs
 
 - 👨🏽‍💻 I’m currently working on JS Capstone
 - ✍ I’m currently learning JS and React
@@ -21,7 +22,7 @@
 <a href="https://twitter.com/fabgrel10">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.reddit.com/user/fabgrel10/">
+<a href="https://www.reddit.com/user/fabricio-garcia">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://t.me/fabgrel10">
