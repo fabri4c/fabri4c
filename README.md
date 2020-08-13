@@ -1,4 +1,4 @@
-<h2> Hi, I'm Fabricio! <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="70"></h2>
+### Hi there, I'm [Fabricio!](https://fabricio-garcia.me/) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 <img align='right' src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="230">
 
