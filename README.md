@@ -11,8 +11,22 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Fabricio%20Garcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-garcia/)](https://www.linkedin.com/in/fabricio-garcia/)
-[![Twitter Badge](https://img.shields.io/badge/-@fabgrael10_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/this_fab)](https://twitter.com/this_fab)
+<br/>
+<a href="https://www.linkedin.com/in/fabricio-garcia/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/fabgrel10/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/fabgrel10">
+  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.reddit.com/user/fabgrel10/">
+  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://t.me/fabgrel10">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
 <br />
 
