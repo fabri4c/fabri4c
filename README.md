@@ -1,17 +1,21 @@
-### Hi there, I'm [Fabricio!](https://fabricio-garcia.me/)  <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="40">
+### Hi there, I'm [Fabricio!](https://fabricio-garcia.me/)  <img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="50">
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="270" />
 
-### <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="60"> Talking about personal stuffs
+<br />
 
-- 👨🏽‍💻 I’m currently working on JS Capstone
-- ✍ I’m currently learning JS and React
+### Talking about personal stuffs
+
+- 👨🏽‍💻 I’m currently working on my final project in Microverse
+- ✍ I’m learning awesome stuff about React
 - 🐕 I own three wonderful doggies
 - ⛵ Fun fact: I love to travel abroad (31 countries visited and counting)
 
+<br />
+
 ### Connect with me:
 
-<br/>
+<br />
 <a href="https://www.linkedin.com/in/fabricio-garcia/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -28,6 +32,7 @@
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
+<br />
 <br />
 
 ### Languages and Tools:
