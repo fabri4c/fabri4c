@@ -1,8 +1,8 @@
-### Hi there, I'm [Fabricio!](https://fabricio-garcia.me/)  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="40">
+### Hi there, I'm [Fabricio!](https://fabricio-garcia.me/)  <img src="https://media.giphy.com/media/Xzq321KSESHt833MYj/giphy.gif" width="70">
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230" />
 
-### <img src="https://media.giphy.com/media/RLbJTnuTILo702G4VP/giphy.gif" width="60"> Talking about personal stuffs
+### <img src="https://media.giphy.com/media/KAw3yvbvLFLEbrxANq/giphy.gif" width="60"> Talking about personal stuffs
 
 - 👨🏽‍💻 I’m currently working on JS Capstone
 - ✍ I’m currently learning JS and React
