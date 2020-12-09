@@ -8,7 +8,7 @@
 
 - 👨🏽‍💻 I’m currently working on my final project in Microverse
 - ✍ I’m learning awesome stuff about React
-- 🐕 I own three wonderful doggies
+- 🧑‍🎓 Currently a senior studying Telematics Engineering
 - ⛵ Fun fact: I love to travel abroad (31 countries visited and counting)
 
 <br />
