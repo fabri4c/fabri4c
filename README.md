@@ -16,7 +16,7 @@
 ### Connect with me:
 
 <br />
-<a href="https://www.linkedin.com/in/fabricio-garcia/">
+<a href="https://www.linkedin.com/in/fabgrel10/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/fabgrel10/">
@@ -53,4 +53,4 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fabricio-garcia&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fabgrel10&show_icons=true&hide_border=true" />
