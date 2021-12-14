@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fabgrel10" target="blank"><img src="https://img.shields.io/twitter/follow/fabgrel10?logo=twitter&style=for-the-badge" alt="fabgrel10" /></a> </p>
 
-- 🔭 I’m currently working on [a really cool project](https://github.com/fabgrel10/todo-webpack)
+- 🔭 I’m currently working on [a really cool project](https://github.com/fabgrel10/leaderboard-webpack)
 
 - ✍ I like to keep up to date learning about technologies I work with
 
