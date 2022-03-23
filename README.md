@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabricio</h1>
+<h1 align="center">Hi 👋, I'm Fabrizio</h1>
 <h3 align="center">Just another developer who enjoys programming...</h3>
 
 <p align="left"> <a href="https://twitter.com/fabgrel10" target="blank"><img src="https://img.shields.io/twitter/follow/fabgrel10?logo=twitter&style=for-the-badge" alt="fabgrel10" /></a> </p>
