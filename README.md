@@ -8,9 +8,9 @@
 <a href="https://hashnode.com/@fabgrel10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@fabgrel10" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on this [e-commerce app](https://github.com/fabgrel10/crwn-clothing).
+- 🔭 I’m currently working on this [***e-commerce app***](https://github.com/fabgrel10/crwn-clothing).
 
-- ✍ I like to keep up to date learning about technologies I work with.
+- ✍ ***I keep my skills updated*** with books, online courses and side projects.
 
 - 💬 Ask me about **JS and React**.
 
