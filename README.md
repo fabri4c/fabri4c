@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **JS and React**.
 
+- 📖 I'm currently reading [**A Mind for Numbers**](https://barbaraoakley.com/books/a-mind-for-numbers/).
+
 - ⛵ Fun fact: I'm a digital nomad.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
