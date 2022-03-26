@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabgrel10&show_icons=true&locale=en&layout=compact" alt="fabgrel10" /></p>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fabgrel10?cardType=level)](https://git.io/awesome-stats-card)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabgrel10)](https://github.com/fabgrel10/github-readme-streak-stats)
