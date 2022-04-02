@@ -33,7 +33,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabgrel10&layout=compact" />
 </a>&nbsp;
 
-<h3 align="left">My coding activity this week:</h3>&nbsp;
+&nbsp;<h3 align="left">My coding activity this week:</h3>&nbsp;
 
 <img
   src="https://github.com/fabgrel10/fabgrel10/blob/main/images/stat.svg"
