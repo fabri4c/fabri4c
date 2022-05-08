@@ -36,10 +36,10 @@
   
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=fabgrel10&count_private=true8&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=fabgrel10&count_private=true8&show_icons=true" width="450px">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabgrel10&layout=compact&langs_count=8">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabgrel10&layout=compact&langs_count=8" width="325px">
   </a>
 </p>
   
