@@ -15,7 +15,7 @@
 - 💬 My favorite programming languages are **_JS, Ruby and Python_**.
 
 - 📖 I'm currently reading [**_A Mind for Numbers_**](https://barbaraoakley.com/books/a-mind-for-numbers/).
-_
+
 - ⛵ Fun fact: I'm a digital nomad.
 
 &nbsp;
