@@ -10,12 +10,12 @@
 
 - 🔭 I’m currently working on this [**_e-commerce app_**](https://github.com/fabgrel10/crwn-clothing).
 
-- ✍ **_I keep my skills updated_** with books, online courses and side projects.
+- ✍ **_I keep my skills updated_** by doing online courses, and participating in freelance projects.
 
-- 💬 Ask me about **JS and React**.
+- 💬 My favorite programming languages are **_JS, Ruby and Python_**.
 
-- 📖 I'm currently reading [**A Mind for Numbers**](https://barbaraoakley.com/books/a-mind-for-numbers/).
-
+- 📖 I'm currently reading [**_A Mind for Numbers_**](https://barbaraoakley.com/books/a-mind-for-numbers/).
+_
 - ⛵ Fun fact: I'm a digital nomad.
 
 &nbsp;
