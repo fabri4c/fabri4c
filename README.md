@@ -231,4 +231,36 @@
 ## My Coding Activity This Week
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2047%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+ERB                      9 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.85% 
+Ruby                     7 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.76% 
+JSON                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
+Java                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.91% 
+SQL                      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.04%
+
+🔥 Editors: 
+RubyMine                 12 hrs 22 mins      ████████████░░░░░░░░░░░░░   50.79% 
+VS Code                  11 hrs 59 mins      ████████████░░░░░░░░░░░░░   49.21%
+
+💻 Operating System: 
+Linux                    23 hrs 56 mins      ████████████████████████░   98.2% 
+Windows                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/fabgrel10/fabgrel10/main/charts/bar_graph.png) 
+
+
+ Last Updated on 25/06/2022 04:08:52 UTC
 <!--END_SECTION:waka-->
