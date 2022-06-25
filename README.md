@@ -228,7 +228,7 @@
 
 &nbsp;
 
-
 ## My Coding Activity This Week
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
