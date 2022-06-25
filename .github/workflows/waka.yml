@@ -1,9 +1,9 @@
-name: Waka Readme
+name: Profile Readme Development Stats
 
 on:
   schedule:
     # Runs every 8 hours
-    - cron: '0 */12 * * *'
+    - cron: "0 */12 * * *"
 
 jobs:
   update-readme:
@@ -12,10 +12,8 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@V3
         with:
-          # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
