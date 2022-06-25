@@ -1,9 +1,9 @@
-name: WakaTime status update
+name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "0 22 * * *"
+    # Runs every 8 hours
+    - cron: '0 */12 * * *'
 
 jobs:
   update-readme:
@@ -15,9 +15,9 @@ jobs:
           # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}        
+          GITHUB_TOKEN: ${{ github.token }}
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_SHORT_INFO: "False"   
+          SHOW_SHORT_INFO: "False"
