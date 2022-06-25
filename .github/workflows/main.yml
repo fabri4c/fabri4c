@@ -15,13 +15,9 @@ jobs:
           # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}
-          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
-          BRANCH: "main"
+          GITHUB_TOKEN: ${{ github.token }}        
           SHOW_PROJECTS: "False"
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_SHORT_INFO: "False"
-          # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "👷 chore: Automated coding activity update"
+          SHOW_SHORT_INFO: "False"   
