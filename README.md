@@ -228,11 +228,7 @@
 
 &nbsp;
 
+
 ## My Coding Activity This Week
-
-&nbsp;
-
-<img
-  src="https://github.com/fabgrel10/fabgrel10/blob/main/images/stat.svg"
-  alt="fabgrel10 WakaTime Stats"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
