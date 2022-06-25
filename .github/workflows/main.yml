@@ -7,10 +7,10 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@V3
         with:
           # WakaTime API key stored in secrets, do not directly paste it here
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
