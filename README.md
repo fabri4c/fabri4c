@@ -211,6 +211,8 @@
 ## Some Certifications
 
 <p align="center"><a href="https://www.credential.net/ab37d5a1-8e0f-44f6-bf83-784ffe50b016"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=47857824" alt="Certificate of Completion for React/Redux" width="90px"></a>
+      <a href="https://www.credential.net/8ab89b5e-a700-4b8d-bd24-02dc39f52b5e"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22113916" alt="Certificate of Completion for Ruby On Rails" width="90px"></a>
+      <a href="https://www.credential.net/e7578d36-774a-43a4-9d6e-4f17f379277e#gs.87vgsk"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55920424" alt="Certificate of Completion for React/Redux" width="90px"></a>
   <a href="https://www.learnenough.com/certificates/fabrizio"><img src="https://www.learnenough.com/certificates/fabrizio/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a></p>
 
 ## My GitHub Stats
