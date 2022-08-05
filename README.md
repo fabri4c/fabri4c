@@ -102,14 +102,6 @@
           height="40"
         />
       </a>
-      <a href="https://go.dev/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"
-          alt="Go"
-          width="40"
-          height="40"
-        />
-      </a>
       <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -162,14 +154,6 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
           alt="Spring"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-          alt="firebase"
           width="40"
           height="40"
         />
