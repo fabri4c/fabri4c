@@ -13,7 +13,7 @@
 
 - ✍ **_I keep my skills updated_** by doing online courses, and participating in freelance projects.
 
-- 💬 My favorite programming languages are **_JS, Ruby and Python_**.
+- 💬 My favorite programming languages are **_JavaScript, Java, Ruby and Python_**.
 
 - 📖 I'm currently reading [**_A Mind for Numbers_**](https://barbaraoakley.com/books/a-mind-for-numbers/).
 
