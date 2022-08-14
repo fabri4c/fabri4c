@@ -9,7 +9,7 @@
 
 </p>&nbsp;
 
-- 🔭 I’m currently working on this [**_e-commerce app_**](https://github.com/fabgrel10/crwn-clothing).
+- 🔭 I’m currently working on this [**_ruby API_**](https://github.com/fabgrel10/marketplace-api).
 
 - ✍ **_I keep my skills updated_** by doing online courses, and participating in freelance projects.
 
@@ -194,10 +194,10 @@
 
 ## Some Certifications
 
-<p align="center"><a href="https://www.credential.net/ab37d5a1-8e0f-44f6-bf83-784ffe50b016"><img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=47857824" alt="Certificate of Completion for React/Redux" width="90px"></a>
-      <a href="https://www.credential.net/8ab89b5e-a700-4b8d-bd24-02dc39f52b5e"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22113916" alt="Certificate of Completion for Ruby On Rails" width="90px"></a>
-      <a href="https://www.credential.net/e7578d36-774a-43a4-9d6e-4f17f379277e#gs.87vgsk"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55920424" alt="Certificate of Completion for React/Redux" width="90px"></a>
-  <a href="https://www.learnenough.com/certificates/fabrizio"><img src="https://www.learnenough.com/certificates/fabrizio/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a></p>
+<p align="center">
+  <a href="https://www.credential.net/e7578d36-774a-43a4-9d6e-4f17f379277e#gs.87vgsk"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55920424" alt="Certificate of Completion Full Stack Web Developer" width="90px"></a>
+  <a href="https://www.learnenough.com/certificates/fabrizio"><img src="https://www.learnenough.com/certificates/fabrizio/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
+</p>
 
 ## My GitHub Stats
 
@@ -215,30 +215,31 @@
 &nbsp;
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Mexico_City
 
-💬 Programming Languages: 
-JavaScript               5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.25% 
-Ruby                     5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.97% 
-Java                     2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.02% 
-CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+💬 Programming Languages:
+JavaScript               5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.25%
+Ruby                     5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.97%
+Java                     2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.02%
+CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
 GitIgnore file           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32%
 
-🔥 Editors: 
-WebStorm                 5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   34.44% 
-RubyMine                 5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.21% 
-IntelliJ                 2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
-VS Code                  2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
+🔥 Editors:
+WebStorm                 5 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   34.44%
+RubyMine                 5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.21%
+IntelliJ                 2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73%
+VS Code                  2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71%
 Sublime Text             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    14 hrs 17 mins      █████████████████████████   100.0%
 
 ```
 
+Last Updated on 14/08/2022 12:39:40 UTC
 
- Last Updated on 14/08/2022 12:39:40 UTC
 <!--END_SECTION:waka-->
