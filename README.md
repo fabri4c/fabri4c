@@ -9,7 +9,7 @@
 
 </p>&nbsp;
 
-- 🔭 I’m currently working on this [**_ruby API_**](https://github.com/fabgrel10/marketplace-api).
+- 🔭 I’m currently working on this [**_Rails marketplace API_**](https://github.com/fabgrel10/marketplace-api).
 
 - ✍ **_I keep my skills updated_** by doing online courses, and participating in freelance projects.
 
