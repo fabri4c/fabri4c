@@ -2,8 +2,7 @@ name: Profile Readme Development Stats
 
 on:
   schedule:
-    # Runs every 8 hours
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
