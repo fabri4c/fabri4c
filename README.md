@@ -215,7 +215,7 @@
 &nbsp;
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -240,5 +240,5 @@ Windows                  0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 31/08/2022 02:22:33 UTC
+ Last Updated on 01/09/2022 01:55:08 UTC
 <!--END_SECTION:waka-->
