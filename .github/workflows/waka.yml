@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
