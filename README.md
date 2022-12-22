@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on this [**_Rails marketplace API_**](https://github.com/fabgrel10/marketplace-api).
 
-- ✍ **_I keep my skills updated_** by doing online courses, and participating in freelance projects.
+- ✍ **_I keep my skills updated_** by doing online courses, and participating in the open source community.
 
 - 💬 My favorite programming languages are **_JavaScript, Java, Ruby and Python_**.
 
-- 📖 I'm currently reading [**_A Mind for Numbers_**](https://barbaraoakley.com/books/a-mind-for-numbers/).
+- 📖 I'm currently reading [**_Guide to Web Development with Java_**](https://link.springer.com/book/10.1007/978-3-030-62274-9).
 
 - ⛵ Fun fact: I'm a digital nomad.
 
@@ -215,40 +215,4 @@
 &nbsp;
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    85 commits     ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   8.29% 
-🌆 Daytime    541 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   52.78% 
-🌃 Evening    387 commits    ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.76% 
-🌙 Night      12 commits     ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   1.17%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-Java                     3 hrs 52 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   41.74% 
-JavaScript               3 hrs 10 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   34.13% 
-CSS                      44 mins             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   7.91% 
-SQL                      26 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   4.81% 
-Pug                      23 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   4.19%
-
-🔥 Editors: 
-VS Code                  5 hrs 37 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   60.63% 
-IntelliJ                 3 hrs 36 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.76% 
-RubyMine                 3 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   0.61%
-
-💻 Operating System: 
-Linux                    5 hrs 47 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.31% 
-Windows                  3 hrs 30 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   37.69%
-
-```
-
-
- Last Updated on 22/12/2022 17:40:00 UTC
 <!--END_SECTION:waka-->
