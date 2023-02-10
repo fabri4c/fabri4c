@@ -74,22 +74,6 @@
           height="40"
         />
       </a>
-      <a href="https://www.typescript.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"
-          alt="Python"
-          width="40"
-          height="40"
-        />
-      </a>
       <a
         href="https://https://www.ruby-lang.org/"
         target="_blank"
@@ -98,22 +82,6 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
           alt="python"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-          alt="sass"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
           width="40"
           height="40"
         />
@@ -154,14 +122,6 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"
           alt="Spring"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
-          alt="jasmine"
           width="40"
           height="40"
         />
