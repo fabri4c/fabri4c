@@ -2,18 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=2F80ED&background=D5E5FB1D&lines=I'm+a+full-stack+web+developer.;+Thanks+for+stopping+by!;Connect+with+me%3A)](https://git.io/typing-svg)
 
-&nbsp;<p align="center">
-<a href="https://linkedin.com/in/fabgrel10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabgrel10" height="30" width="40" /></a>
-<a href="https://twitter.com/fabgrel10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fabgrel10" height="30" width="40" /></a>
-<a href="https://hashnode.com/@fabgrel10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@fabgrel10" height="30" width="40" /></a>
-
-</p>&nbsp;
-
 - 🔭 I’m currently working on this [**_Rails marketplace API_**](https://github.com/fabgrel10/marketplace-api).
 
 - ✍ **_I keep my skills updated_** by doing online courses, and participating in the open source community.
 
-- 💬 My favorite programming languages are **_JavaScript, Java, Ruby and Python_**.
+- 💬 My favorite programming languages are **_JavaScript, Java, and Ruby**.
 
 - 📖 I'm currently reading [**_Guide to Web Development with Java_**](https://link.springer.com/book/10.1007/978-3-030-62274-9).
 
