@@ -6,9 +6,9 @@
 
 - ✍ **_I keep my skills updated_** by doing online courses, and participating in the open source community.
 
-- 💬 My favorite programming languages are **_JavaScript, Java, and Ruby**.
+- 💬 My favorite programming languages are **Java, JavaScript, and Ruby**.
 
-- 📖 I'm currently reading [**_Guide to Web Development with Java_**](https://link.springer.com/book/10.1007/978-3-030-62274-9).
+- 📖 I'm currently reading [**_Learning Spring Boot 3.0_**](https://www.packtpub.com/product/learning-spring-boot-30-third-edition/9781803233307).
 
 - ⛵ Fun fact: I'm a digital nomad.
 
