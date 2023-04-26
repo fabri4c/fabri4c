@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fabrizio</h1>
+<h1 align="center">Hi 👋, I'm Fabricio</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=2F80ED&background=D5E5FB1D&lines=I'm+a+full-stack+web+developer.;+Thanks+for+stopping+by!;Connect+with+me%3A)](https://git.io/typing-svg)
 
