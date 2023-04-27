@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=2F80ED&background=D5E5FB1D&lines=I'm+a+full-stack+web+developer.;+Thanks+for+stopping+by!;Connect+with+me%3A)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on this [**_Rails marketplace API_**](https://github.com/fabgrel10/marketplace-api).
+- 🔭 I’m currently working in a project involving React and Spring Boot.
 
 - ✍ **_I keep my skills updated_** by doing online courses, and participating in the open source community.
 
