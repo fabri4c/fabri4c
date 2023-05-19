@@ -8,7 +8,7 @@
 
 - 💬 My favorite programming languages are **Java, JavaScript, and Ruby**.
 
-- 📖 I'm currently reading [**_Learning Spring Boot 3.0_**](https://www.packtpub.com/product/learning-spring-boot-30-third-edition/9781803233307).
+- 📖 I'm currently reading [**_Amazon Web Services in Action_**](https://www.manning.com/books/amazon-web-services-in-action-third-edition).
 
 - ⛵ Fun fact: I'm a digital nomad.
 
