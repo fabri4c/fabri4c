@@ -10,8 +10,6 @@
 
 - 📖 I'm currently reading [**_Amazon Web Services in Action_**](https://www.manning.com/books/amazon-web-services-in-action-third-edition).
 
-- ⛵ Fun fact: I'm a digital nomad.
-
 &nbsp;
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
