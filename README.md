@@ -57,14 +57,6 @@
           height="40"
         />
       </a>
-      <a href="https://www.nodejs.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-          alt="nodejs"
-          width="40"
-          height="40"
-        />
-      </a>
       <a
         href="https://https://www.ruby-lang.org/"
         target="_blank"
@@ -84,6 +76,14 @@
           width="40"
           height="40"
         />
+      </a>      
+      <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+          alt="react"
+          width="40"
+          height="40"
+      />
+
       </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
@@ -155,12 +155,7 @@
 &nbsp;
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=coderfabri&count_private=true8&show_icons=true" width="450px">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabgrel10&layout=compact&langs_count=8" width="325px">
-  </a>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fabricio=anuraghazra&show_icons=true&theme=transparent)
 </p>
 
 &nbsp;
