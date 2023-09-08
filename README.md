@@ -119,9 +119,7 @@
 
 &nbsp;
 
-<p align="center">
-      [![GitHub Streak](https://streak-stats.demolab.com?user=fabri4c)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=fabri4c)](https://git.io/streak-stats)
 
 &nbsp;
 
