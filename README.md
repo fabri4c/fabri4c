@@ -120,7 +120,7 @@
 &nbsp;
 
 <p align="center">
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fabricio=anuraghazra&show_icons=true&theme=transparent)
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fabri4c=anuraghazra&show_icons=true&theme=transparent)
 </p>
 
 &nbsp;
