@@ -120,7 +120,7 @@
 &nbsp;
 
 <p align="center">
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fabri4c=anuraghazra&show_icons=true&theme=transparent)
+      [![GitHub Streak](https://streak-stats.demolab.com?user=fabri4c)](https://git.io/streak-stats)
 </p>
 
 &nbsp;
