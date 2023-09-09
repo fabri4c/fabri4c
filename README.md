@@ -114,7 +114,7 @@ _I keep my skills updated_** by doing online courses, and participating in the o
 <p align="center">
   <a href="https://www.credential.net/e7578d36-774a-43a4-9d6e-4f17f379277e#gs.87vgsk"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55920424" alt="Certificate of Completion Full Stack Web Developer" width="90px"></a>
   <a href="https://www.learnenough.com/certificates/fabrizio"><img src="https://www.learnenough.com/certificates/fabrizio/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
-  <a href="https://app.aluracursos.com/program/certificate/0e55c4af-cd3e-4a7f-9d60-f13df68cd05e"><img src="https://www.oracle.com/a/ocom/img/rh03-one-v-black-lad.png" width="60" height="100"alt="Certificate of completion Oracle Next Backend"></a>
+  <a href="https://app.aluracursos.com/program/certificate/0e55c4af-cd3e-4a7f-9d60-f13df68cd05e"><img src="https://www.oracle.com/a/ocom/img/rh03-one-v-black-lad.png" width="100" height="100"alt="Certificate of completion Oracle Next Backend"></a>
 </p>
 
 ## My GitHub Stats
