@@ -38,7 +38,6 @@ _I keep my skills updated_** by doing online courses, and participating in the o
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
           alt="Spring"
           width="40"
-
           height="40"
         />
        <img
