@@ -120,17 +120,7 @@ _I keep my skills updated_** by doing online courses, and participating in the o
 ## My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-685%20hrs%2032%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.98 % 
-🌆 Daytime                178 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   86.83 % 
-🌃 Evening                25 commits          ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.20 % 
-🌙 Night                  0 commits           ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-```
-
+![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -162,5 +152,5 @@ JavaScript               1 repo              ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 08/09/2023 23:34:49 UTC
+ Last Updated on 09/09/2023 18:34:48 UTC
 <!--END_SECTION:waka-->
