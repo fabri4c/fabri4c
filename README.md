@@ -120,9 +120,9 @@ _I keep my skills updated_** by doing online courses, and participating in the o
 
 &nbsp;
 
-<p align="center">
+<div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=fabri4c)](https://git.io/streak-stats)
-</p>
+</div>
 
 
 &nbsp;
