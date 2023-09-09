@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working in a project involving React and Spring Boot.
 
-- ✍ **_I keep my skills updated_** by doing online courses, and participating in the open source community.
+- ✍ **
+_I keep my skills updated_** by doing online courses, and participating in the open source community.
 
 - 💬 My favorite programming languages are **Java, JavaScript, and Ruby**.
 
@@ -119,7 +120,10 @@
 
 &nbsp;
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fabri4c)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=fabri4c)](https://git.io/streak-stats)
+</p>
+
 
 &nbsp;
 
