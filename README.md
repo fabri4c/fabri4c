@@ -120,7 +120,7 @@ _I keep my skills updated_** by doing online courses, and participating in the o
 ## My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2021%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -154,5 +154,5 @@ JavaScript               1 repo              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 10/09/2023 18:09:26 UTC
+ Last Updated on 10/09/2023 18:34:56 UTC
 <!--END_SECTION:waka-->
