@@ -119,6 +119,13 @@ _I keep my skills updated_** by doing online courses, and participating in the o
 
 ## My GitHub Stats
 
+<p align="center">       
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fabri4c)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabri4c&show_icons=true&theme=transparent)
+       
+</p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2021%20mins-blue)
 
