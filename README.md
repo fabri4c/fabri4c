@@ -120,7 +120,7 @@ _I keep my skills updated_** by doing online courses, and participating in the o
 ## My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-690%20hrs%2049%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -145,13 +145,13 @@ Linux                    17 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 **I Mostly Code in Java** 
 
 ```text
-Java                     3 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   60.00 % 
-CSS                      1 repo              ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.00 % 
-JavaScript               1 repo              ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.00 % 
+Java                     2 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.00 % 
+CSS                      1 repo              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.00 % 
+JavaScript               1 repo              ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.00 % 
 ```
 
 
 
 
- Last Updated on 09/09/2023 18:53:52 UTC
+ Last Updated on 10/09/2023 03:39:56 UTC
 <!--END_SECTION:waka-->
