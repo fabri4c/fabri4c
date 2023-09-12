@@ -120,11 +120,10 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
 
 ## My GitHub Stats
 
-<p align="center">       
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fabri4c)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabri4c&show_icons=true&theme=transparent)
+<p align="center">
        
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabri4c&show_icons=true&theme=transparent)       
+
 </p>
 
 <!--START_SECTION:waka-->
