@@ -7,7 +7,7 @@
 - ✍ **
 _I keep my skills updated_** by doing online courses, and participating in the open source community.
 
-- 💬 My favorite programming languages are **Java, JavaScript, and Ruby**.
+- 💬 My favorite programming languages are **Java and JavaScript**.
 
 - 📖 I'm currently reading [**_Amazon Web Services in Action_**](https://www.manning.com/books/amazon-web-services-in-action-third-edition).
 
