@@ -127,25 +127,7 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C390%20hrs%2025%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C392%20hrs%2035%20mins-blue)
 
 **I Mostly Code in JavaScript** 
 
@@ -158,5 +140,5 @@ CSS                      1 repo              ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 21/03/2025 08:24:01 UTC
+ Last Updated on 21/03/2025 16:24:21 UTC
 <!--END_SECTION:waka-->
