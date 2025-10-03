@@ -127,8 +127,6 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C414%20hrs%2030%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -158,5 +156,5 @@ CSS                      1 repo              ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 03/10/2025 01:25:17 UTC
+ Last Updated on 03/10/2025 08:25:21 UTC
 <!--END_SECTION:waka-->
