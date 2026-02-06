@@ -36,8 +36,8 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
           height="40"
         />
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"
-          alt="sql"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cosmosdb/cosmosdb-original.svg"
+          alt="cosmosdb"
           width="40"
           height="40"
         />
@@ -55,36 +55,30 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
           height="40"
         />
          <img 
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/dapachekafka-original.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
           alt="apachekafka"
           width="40"
           height="40"
       />
-         <img 
+       <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
           alt="docker"
           width="40"
           height="40"
       />
-       <img 
+        <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"
           alt="kubernetes"
           width="40"
           height="40"
       />
-       <img 
+      <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
           alt="azure"
           width="40"
           height="40"
       />
        <img 
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          alt="docker"
-          width="40"
-          height="40"
-      />
-      <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
           alt="amazonwebservices"
           width="40"
