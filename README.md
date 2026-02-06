@@ -23,18 +23,6 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
 &nbsp;
 
 <p align="center">
-       <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="40"
-          height="40"
-        />
-       <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="40"
-          height="40"
-        />
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
           alt="Spring"
@@ -47,40 +35,16 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
           width="40"
           height="40"
         />
-       <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-          alt="python"
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"
+          alt="sql"
           width="40"
           height="40"
         />
-       <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          alt="postgresql"
-          width="40"
-          height="40"
-        />    
-      <img 
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-          alt="react"
-          width="40"
-          height="40"
-      />
       </a>
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
           alt="react"
-          width="40"
-          height="40"
-        />
-       <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-          alt="redux"
-          width="40"
-          height="40"
-        />
-       <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
-          alt="rails"
           width="40"
           height="40"
         />
@@ -90,18 +54,42 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
           width="40"
           height="40"
         />
-       <img
-          src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-          alt="jest"
+         <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/dapachekafka-original.svg"
+          alt="apachekafka"
           width="40"
           height="40"
-        />
-       <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
+      />
+         <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          alt="docker"
           width="40"
           height="40"
-        />
+      />
+       <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"
+          alt="kubernetes"
+          width="40"
+          height="40"
+      />
+       <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+          alt="azure"
+          width="40"
+          height="40"
+      />
+       <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+          alt="docker"
+          width="40"
+          height="40"
+      />
+      <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+          alt="amazonwebservices"
+          width="40"
+          height="40"
+      />
       <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
           alt="linux"
@@ -110,21 +98,8 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
         />
     </p>&nbsp;
 
-## Some Certifications
-
-<p align="center">
-  <a href="https://www.credential.net/e7578d36-774a-43a4-9d6e-4f17f379277e#gs.87vgsk"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55920424" alt="Certificate of Completion Full Stack Web Developer" width="90px"></a>
-  <a href="https://www.learnenough.com/certificates/fabrizio"><img src="https://www.learnenough.com/certificates/fabrizio/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
-  <a href="https://app.aluracursos.com/program/certificate/0e55c4af-cd3e-4a7f-9d60-f13df68cd05e"><img src="https://www.oracle.com/a/ocom/img/rh03-one-v-black-lad.png" width="100" height="100" alt="Certificate of completion Oracle Next Backend"></a>
-</p>
 
 ## My GitHub Stats
-
-<p align="center">
-       
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabri4c&show_icons=true&theme=transparent)       
-
-</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C601%20hrs%2054%20mins-blue?style=flat)
