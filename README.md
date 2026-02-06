@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=2F80ED&background=D5E5FB1D&lines=I'm+a+full-stack+web+developer.;+Thanks+for+stopping+by!;Connect+with+me%3A)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working in a project involving React and Spring Boot.
+- 🔭 I’m currently working as a **Java Backend Developer**.
 
 - ✍ **
 _I keep my skills updated_** by doing online courses, and participating in the open source community.
 
-- 💬 My favorite programming languages are **Java and JavaScript**.
+- 💬 My favorite programming language is **Java**.
 
-- 📖 I'm currently reading [**_Amazon Web Services in Action_**](https://www.manning.com/books/amazon-web-services-in-action-third-edition).
+- 📖 My hobbies include reading and playing videogames.
 
 &nbsp;
 
@@ -78,12 +78,11 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
           width="40"
           height="40"
       />
-       <img 
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
           alt="amazonwebservices"
           width="40"
           height="40"
-      />
+        />
       <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
           alt="linux"
