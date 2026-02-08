@@ -25,26 +25,32 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
 <p align="center">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
-          alt="Spring"
+          alt="Java"
           width="40"
           height="40"
         />
        <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
+          alt="JS"
+          width="40"
+          height="40"
+        />
+       <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+          alt="Python"
           width="40"
           height="40"
         />
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cosmosdb/cosmosdb-original.svg"
-          alt="cosmosdb"
+          alt="CosmosDB"
           width="40"
           height="40"
         />
       </a>
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
+          alt="React"
           width="40"
           height="40"
         />
@@ -54,38 +60,44 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
           width="40"
           height="40"
         />
-         <img 
+        <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
-          alt="apachekafka"
+          alt="Apache Kafka"
+          width="40"
+          height="40"
+      />
+      <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+          alt="FastAPI"
           width="40"
           height="40"
       />
        <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          alt="docker"
+          alt="Docker"
           width="40"
           height="40"
       />
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"
-          alt="kubernetes"
+          alt="Kubernetes"
           width="40"
           height="40"
       />
       <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
-          alt="azure"
+          alt="Azure"
           width="40"
           height="40"
       />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-          alt="amazonwebservices"
+          alt="AWS"
           width="40"
           height="40"
         />
       <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-          alt="linux"
+          alt="GNU/Linux"
           width="40"
           height="40"
         />
