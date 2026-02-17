@@ -107,7 +107,7 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
 ## My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -147,5 +147,5 @@ Java                     2 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 
 
- Last Updated on 17/02/2026 02:22:15 UTC
+ Last Updated on 17/02/2026 08:50:16 UTC
 <!--END_SECTION:waka-->
