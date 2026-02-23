@@ -107,17 +107,4 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https:
 ## My GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C631%20hrs%2044%20mins-blue?style=flat)
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               2 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.00 % 
-Java                     2 repos             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.00 % 
-```
-
-
-
-
- Last Updated on 22/02/2026 16:33:05 UTC
 <!--END_SECTION:waka-->
